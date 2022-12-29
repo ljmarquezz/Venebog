@@ -14,5 +14,6 @@ Este es un blog para el curso de Git y github
 * El flujo de trabajo.
 * Hacer forks y colaborar con proyectos open source.
 * Otro contenido adicional fue como resolver ecuaciones diferenciales y exponenciales.
-
+* Algo para picar.
+* Creado el 2022.
 
