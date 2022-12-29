@@ -13,6 +13,6 @@ Este es un blog para el curso de Git y github
 * Crear llaves con SSH.
 * El flujo de trabajo.
 * Hacer forks y colaborar con proyectos open source.
-* Otro contenido adicional fue como resolver ecuaciones diferenciales.
+* Otro contenido adicional fue como resolver ecuaciones diferenciales y exponenciales.
 
 
